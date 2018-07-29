@@ -11,6 +11,7 @@ import com.annie.dictionary.utils.Utils;
 import com.annie.dictionary.utils.Utils.Def;
 
 import java.io.File;
+import java.io.IOException;
 import java.lang.ref.WeakReference;
 import java.util.Locale;
 import java.util.regex.Matcher;
